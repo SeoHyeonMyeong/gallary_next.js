@@ -1,0 +1,16 @@
+.nav {
+    background-color: aqua;
+    height: 30px;
+}
+
+.active {
+    color: red;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+    padding: 10px 5px;
+    margin: 10px;
+    font-size: 20px;
+}
